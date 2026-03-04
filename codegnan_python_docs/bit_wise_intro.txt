@@ -1,0 +1,17 @@
+bit-wise operators
+No - 8421
+0  - 0000
+1  - 0001
+2  - 0010
+3  - 0011
+4  - 0100
+5  - 0101 
+6  - 0101
+7  - 0111
+8  - 1000
+9  - 1001
+
+and -> both are true
+or -> either true or false
+ ~ -> -(x+1)
+^ ->  atleast one is true
