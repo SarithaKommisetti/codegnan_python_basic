@@ -1,0 +1,19 @@
+Data types
+ 
+
+#5 types 
+
+1.integer-denoted by int.
+  eg:5,12,87
+
+2.float -denoted by float.
+  eg: 3.2,76.4
+
+3. complex - denoted by complex.
+   eg:5+4j,3j+8,4j
+
+4.boolean - denoted by bool 
+   eg: True, False
+
+5.String - denoted by str. 
+ eg:"saru","vizag"
