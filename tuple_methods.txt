@@ -1,0 +1,17 @@
+#tuple()
+
+a=(2,4.2,"d",3+4j,True,False)
+print(a)
+#(2, 4.2, 'd', (3+4j), True, False)
+
+print(type(a))
+#<class 'tuple'>
+
+print(len(a))
+#6
+
+print(a.index(True))
+#4
+
+print(a.count(2))
+#1
