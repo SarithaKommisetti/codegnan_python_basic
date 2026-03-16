@@ -1,0 +1,8 @@
+range -> The range function returns a sequence of numbers starting from 0 by default and increments by one by one and stops before a specified number.
+
+break -> The break statement is used to terminate the entire loop.
+
+continue -> The continue statement is used to skips the current iteration and rest of the code will continue.
+
+pass -> A pass statement is a null statement .It does nothing but syntatically we need.
+
