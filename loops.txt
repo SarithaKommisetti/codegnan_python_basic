@@ -6,3 +6,5 @@ continue -> The continue statement is used to skips the current iteration and re
 
 pass -> A pass statement is a null statement .It does nothing but syntatically we need.
 
+list comprehension -> Every list comprehension can be rewritten as a for loop but every for loop cannot be written in list comprehension.
+
